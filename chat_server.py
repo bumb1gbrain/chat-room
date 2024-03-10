@@ -25,7 +25,7 @@ if not os.path.isdir("log"):
 file = open('log/users.json', 'w')
 file.close()
 db = TinyDB('log/users.json')
-db.purge()
+db.truncate()
 
 key = Fernet.generate_key()
 cipher_suite = Fernet(key)

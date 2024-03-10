@@ -1,0 +1,8 @@
+Type /help to display the list of available commands.
+
+[SERVER] Welcome bum! Kindly set a password using /p command, if not set.
+[SERVER] List of rooms on server:
+Public
+Public2
+Private1 (private) 
+Private2 (private) 

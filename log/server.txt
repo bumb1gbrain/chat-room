@@ -1,0 +1,9 @@
+Running server script..
+Specify port number for the server (default = 9999): Server started on 192.168.1.48 : 9999
+Password set and encrypted successfully!
+Waiting for incoming connections..
+
+New incoming connection from 192.168.1.48
+192.168.1.48 set username to bum
+bum listed rooms
+bum joined  room
